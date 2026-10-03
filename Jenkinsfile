@@ -109,7 +109,7 @@ pipeline {
                         );
                     } 
 		    else {
-                        error "*** File: ${artifactPath}, cannot be found, cannot found";
+                        error "*** File: ${artifactPath}, cannot be found, cannot be found";
                     }
                 }
             }
